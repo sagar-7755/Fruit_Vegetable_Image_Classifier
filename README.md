@@ -43,3 +43,13 @@ This project focuses on building an image classification system capable of ident
 ├── 📁 notebooks/            # Jupyter notebooks for training
 ├── requirements.txt        # Dependencies
 └── README.md
+
+
+## Model
+
+The trained model is too large to be hosted on GitHub.
+
+Download it from here:
+👉 https://drive.google.com/file/d/1EuKF5z4GYSA5UE0brn4NHIWa2WaYoy-U/view?usp=sharing
+
+After downloading, place it inside the `model/` folder.
